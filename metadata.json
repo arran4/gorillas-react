@@ -1,0 +1,5 @@
+{
+  "name": "Gorillas.react",
+  "description": "A modern React reconstruction of the classic QBasic Gorillas artillery game, featuring a Gemini-powered AI opponent.",
+  "requestFramePermissions": []
+}
